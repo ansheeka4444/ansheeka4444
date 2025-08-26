@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/divyansh-1503/divyansh-1503/blob/6e54be08b7c22f2f24a9400ef30b8d0ef35d50a1/Untitled%20(1).png" alt="Ansheeka Verma Banner" width="100%" />
+  <img src="https://github.com/ansheeka4444/ansheeka4444/blob/3a6ac7e3dc004f622f071795a3c4ac351ecda43e/ansheeka.png" alt="Ansheeka Verma Banner" width="100%" />
 </div>
 
 <h1 align="center">Hello Everyone👋, I'm Divyansh Bhola</h1>
