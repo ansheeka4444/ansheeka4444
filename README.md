@@ -66,3 +66,18 @@
   </div>
 
 ---
+<h3 align="left">📂 Projects</h3>
+
+<p align="left">
+  <a href="https://empowerment-4.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Empowerment%20Project-000000?style=for-the-badge" alt="Empowerment" />
+<!--     &logo=github&logoColor=white -->
+  </a>
+  <br>
+  <a href="https://infinity-courses.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Infinity%20Courses-1E90FF?style=for-the-badge" alt="Infinity Courses" />
+<!--     &logo=github&logoColor=white -->
+  </a>
+  <br>
+
+</p>
