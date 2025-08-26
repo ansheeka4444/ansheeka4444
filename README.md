@@ -2,7 +2,7 @@
   <img src="https://github.com/ansheeka4444/ansheeka4444/blob/3a6ac7e3dc004f622f071795a3c4ac351ecda43e/ansheeka.png" alt="Ansheeka Verma Banner" width="100%" />
 </div>
 
-<h1 align="center">Hello Everyone👋, I'm Divyansh Bhola</h1>
+<h1 align="center">Hello Everyone👋, I'm ANSHEEKA VERMA</h1>
 <h3 align="center">A dedicated self-learner.</h3>
 
 ---
